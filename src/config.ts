@@ -8,4 +8,9 @@ export let PROXIES: Proxy[] = [{
         domain: "github.xcxx.me",
         url: "https://github.com/",
         enable: true
-    }];
+    }
+                             {
+        domain: "easy-reverse-proxy0.vercel.app",
+        url: "https://google.com/",
+        enable: true
+    }     ];
